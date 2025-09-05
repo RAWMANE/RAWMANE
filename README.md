@@ -12,4 +12,4 @@ I'm intern frontend-developer
 
 **Active:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 
-**Active soon** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+**Active soon:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
