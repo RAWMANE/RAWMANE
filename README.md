@@ -3,7 +3,7 @@
 ### 👨‍💻 About me
 I'm intern frontend-developer 
 
-- 🔭 Now i'm working  **on finishing my various educational and exam projects, as well as strengthening my knowledge of JS and studying React**.
+- 🔭 Now i'm working  **on finishing my various educational and exam projects**.
 - 🌱 Studying **React** strengthening my knowledge of **JS**.
 - 👯 Looking for an **internship** or **job**.
 - 📫 U can contact me:
